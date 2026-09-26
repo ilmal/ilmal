@@ -1,5 +1,3 @@
-Building [LawCrawl](https://lawcrawl.se) and [Eyrie](https://eyrie.se) at **Ilmal AB** — Swedish software, org.nr 559589-6605.
-
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilmal&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 <!--
 **ilmal/ilmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
